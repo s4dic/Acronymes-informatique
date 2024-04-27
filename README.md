@@ -206,7 +206,6 @@ Pour rechercher votre acronyme plus facilement faite un CTRL+F en mettant votre 
 |-------                        |-------
 |'O365, Office365'              | O365 ou Office365 (O365), est la marque désignant un abonnement à la dernière version de Microsoft Office et à un ensemble de services Cloud, par opposition aux licences dites perpétuelles qui s'installent pour une durée indéterminée sur un seul ordinateur à la fois.
 |'MTA'              | Mail Transfer Agent (MTA), ou agent de transfert de courrier en français, est un logiciel pour serveur de transmission de courriers électroniques (Email).
-
 |'VM'                           | Virtual Machine (VM), ou machine virtuelle désigne un environnement d'application ou de système d'exploitation (OS, Operating System) installé sur un logiciel qui imite un matériel dédié. Côté utilisateur final, l'interaction avec une machine virtuelle est la même qu'avec un matériel dédié.
 |'Ping Federate'                | PingFederate (Ping Federate), est une autorité d'authentification qui fournit des fonctionnalités de SSO fédéré pour n'importe quelle identité et n'importe quelle ressource. À la différence d'un SSO, Ping Federate permet l'authentification unique pour des applications dans plusieurs domaines ou organisations.
 |'Ping ID'                      | Ping ID (Ping ID ), est une solution d'authentification multifacteur (MFA) destinée aux collaborateurs et à aux partenaires qui permet d'améliorer votre niveau de sécurité.
